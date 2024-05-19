@@ -1,4 +1,4 @@
-SCANNER APP IONIC-ANGULAR
+ APP MOVIL IONIC-ANGULAR
 
   1.Install Nodejs https://nodejs.org/es/
   
